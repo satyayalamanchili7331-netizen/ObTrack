@@ -1,0 +1,10 @@
+{
+  "name": "OBTrack",
+  "description": "Real-time object detection and multi-object tracking web application supporting YOLOv8, Faster R-CNN, SORT, DeepSORT, live webcam, video upload, motion trails, and Gemini AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
